@@ -1,0 +1,42 @@
+body
+{
+   font-family: "Verdana", sans-serif;
+   font-size: 0.8em;
+}
+
+p, li { line-height: 1.35em; }
+
+a { text-decoration: none; }
+
+a:visited { color: #48f; }
+
+#langbar { float: right; clear: both; }
+
+#main
+{
+	width: 50%;
+	margin: auto;
+	margin-top: 10%;
+	padding-left: 30px;
+	border-left: 20px solid gray;
+}
+
+h1
+{
+   font-family: serif;
+   font-size: xx-large;
+   font-style: italic;
+   color: #3070c0;
+	border-bottom: 1px solid gray;
+}
+
+li { list-style: none; }
+
+#footerinfo
+{
+   position: absolute;
+	bottom: 0;
+   width: 99%;
+   text-align: center;
+   color: gray;
+}
